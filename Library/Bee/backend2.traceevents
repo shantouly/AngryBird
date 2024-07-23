@@ -1,0 +1,269 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1696868100936605, "dur":22171, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868100958792, "dur":92, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868100958931, "dur":777, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868100960066, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1696868100962017, "dur":254, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1696868100959826, "dur":4142, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868100963970, "dur":3961386, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104925358, "dur":251, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104925609, "dur":156, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104925765, "dur":58, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104925907, "dur":162, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104926318, "dur":3914, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1696868100960498, "dur":3480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696868100963981, "dur":3152, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696868100981678, "dur":468, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1696868100982155, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868100982367, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1696868100982508, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1696868100982901, "dur":179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerc0712e45-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1696868100982153, "dur":1045, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868100983502, "dur":107, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1696868100983944, "dur":202876, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868101187896, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868101187895, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868101188172, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1696868101189700, "dur":3735662, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696868100960633, "dur":3378, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696868100964015, "dur":408, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696868100964423, "dur":2728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1696868100967164, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1696868100981291, "dur":11583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1696868100993117, "dur":19368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101012560, "dur":7267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101019882, "dur":7425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101027430, "dur":9544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101037054, "dur":7771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101044873, "dur":8248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101053200, "dur":8621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101061879, "dur":8550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101070495, "dur":6817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101077364, "dur":8794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101086223, "dur":9322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1696868101095622, "dur":10591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1696868101106259, "dur":11472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1696868101117758, "dur":3807633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868100960698, "dur":3329, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868100964031, "dur":384, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868100964415, "dur":2766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868100971537, "dur":3519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1696868100976241, "dur":3421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1696868100980518, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1696868100982704, "dur":5279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1696868101003515, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868100988070, "dur":15553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101003684, "dur":10153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101013883, "dur":7312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101021242, "dur":7556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101028851, "dur":8695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101037607, "dur":6480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101044146, "dur":7569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101051761, "dur":9005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101060826, "dur":8217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101069103, "dur":7776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101076960, "dur":6898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101083936, "dur":11299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1696868101095287, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696868101095429, "dur":9071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696868101124750, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1696868101104591, "dur":20236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1696868101124904, "dur":3800428, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868100960579, "dur":3406, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868100963996, "dur":388, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868100964384, "dur":2776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868100974925, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868100970747, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1696868100976472, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1696868100980458, "dur":7028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1696868100988048, "dur":16416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101004546, "dur":10421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101015029, "dur":8125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101023339, "dur":9153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101032888, "dur":11632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101044616, "dur":8741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101053465, "dur":10246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101063897, "dur":10966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101074930, "dur":8677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101083652, "dur":8900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1696868101101295, "dur":228, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868101092605, "dur":8973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696868101113963, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1696868101101689, "dur":12493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/resources.resource" }}
+,{ "pid":12345, "tid":4, "ts":1696868101114276, "dur":11621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1696868101125931, "dur":3799472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868100960622, "dur":3379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868100964005, "dur":400, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868100964405, "dur":2773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868100967183, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1696868100980238, "dur":4121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1696868100984419, "dur":3494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid.exe" }}
+,{ "pid":12345, "tid":5, "ts":1696868100988330, "dur":18526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101007067, "dur":9311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101016433, "dur":7968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101024465, "dur":8489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101033018, "dur":10299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101043368, "dur":8352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101051761, "dur":10925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101072788, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868101062738, "dur":10279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101073096, "dur":8912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101082094, "dur":8431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101096765, "dur":1520, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1696868101090619, "dur":7717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1696868101101713, "dur":3779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1696868101105542, "dur":11849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1696868101117430, "dur":3807969, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696868100960676, "dur":3343, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696868100964023, "dur":386, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696868100964410, "dur":2756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1696868100967171, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1696868100979654, "dur":4520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1696868100984425, "dur":18171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101002695, "dur":10922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101013691, "dur":8315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101022213, "dur":8950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101031232, "dur":8743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101040310, "dur":7890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101048305, "dur":11325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101059720, "dur":8287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101068150, "dur":9711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101077944, "dur":7740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101085742, "dur":8151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1696868101093945, "dur":23127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1696868101117233, "dur":3808104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696868100960731, "dur":3305, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696868100964040, "dur":357, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696868100964398, "dur":2773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1696868100967178, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1696868100971817, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1696868100976589, "dur":3996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1696868100980859, "dur":5742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1696868100987523, "dur":12872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101000628, "dur":11062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101011757, "dur":9272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101021098, "dur":8040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101029189, "dur":7777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101037035, "dur":10777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101047887, "dur":8357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101056303, "dur":8364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101064734, "dur":10188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101074964, "dur":8527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101083542, "dur":8384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101091988, "dur":45234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1696868101137263, "dur":3788153, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696868100960786, "dur":3261, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696868100964052, "dur":540, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696868100964593, "dur":2571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696868100970988, "dur":4408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1696868100976585, "dur":3651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1696868100980553, "dur":5054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1696868100986856, "dur":9565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1696868100996484, "dur":12308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101008848, "dur":8792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101017687, "dur":8204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101026019, "dur":8482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101034567, "dur":7232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101041849, "dur":9542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101051466, "dur":13590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101065137, "dur":9230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101074434, "dur":9068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101083553, "dur":7124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101090721, "dur":5898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1696868101096680, "dur":1411, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1696868101098118, "dur":9882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1696868101108050, "dur":17037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1696868101125116, "dur":3800402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696868100960827, "dur":3229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696868100964059, "dur":302, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696868100964361, "dur":2838, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1696868100979784, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1696868100983491, "dur":2997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868100987201, "dur":17368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101004617, "dur":12491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101017156, "dur":7334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101024536, "dur":10569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101035153, "dur":6641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101041849, "dur":8290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101050187, "dur":9738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101059983, "dur":10900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101070934, "dur":8195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101079187, "dur":7828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101087071, "dur":8423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1696868101095538, "dur":10463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1696868101106048, "dur":18375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1696868101124484, "dur":3800946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100960873, "dur":3187, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100964063, "dur":72, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100964136, "dur":3019, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100967165, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1696868100979840, "dur":3127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1696868100990937, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100986388, "dur":4653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1696868100992139, "dur":240, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868100992408, "dur":15559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101008030, "dur":11329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101019405, "dur":7909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101027394, "dur":10757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101038239, "dur":6912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101045224, "dur":9473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101054819, "dur":9031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101063934, "dur":10012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101074007, "dur":8080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101082146, "dur":8493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101090686, "dur":5980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1696868101096809, "dur":1541, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868101115867, "dur":435, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1696868101098362, "dur":18019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1696868101116555, "dur":8782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1696868101125392, "dur":3799993, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696868100960915, "dur":3162, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696868100964078, "dur":3064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696868100967466, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100967686, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100967836, "dur":396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100968233, "dur":564, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100968798, "dur":242, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100969042, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100969234, "dur":545, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100969783, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100970017, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100970173, "dur":337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100970511, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100970781, "dur":406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100971188, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100971383, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100971484, "dur":608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100972095, "dur":468, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100972566, "dur":185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\AngryBrid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868100967163, "dur":5677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":11, "ts":1696868100973242, "dur":65, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696868100975915, "dur":3944536, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":11, "ts":1696868104922127, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":11, "ts":1696868104922275, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1696868104923420, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868100960958, "dur":3125, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696868100964083, "dur":3054, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696868100967178, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696868100982544, "dur":5822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1696868100988398, "dur":15431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101003859, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\2022.3.4f1c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101003856, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101003956, "dur":9888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101013888, "dur":7361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101021443, "dur":7373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101028866, "dur":8254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101037170, "dur":9512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101053361, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696868101046739, "dur":6923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101053754, "dur":8999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101062835, "dur":8972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101080558, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1696868101071899, "dur":8759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101080721, "dur":8511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101089303, "dur":6843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1696868101096274, "dur":7256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1696868101103605, "dur":23868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users//Desktop//angryBrid/AngryBrid_Data/AngryBrid_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1696868101127507, "dur":3797935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1696868104935904, "dur":1508, "ph":"X", "name": "ProfilerWriteOutput" }
+,
